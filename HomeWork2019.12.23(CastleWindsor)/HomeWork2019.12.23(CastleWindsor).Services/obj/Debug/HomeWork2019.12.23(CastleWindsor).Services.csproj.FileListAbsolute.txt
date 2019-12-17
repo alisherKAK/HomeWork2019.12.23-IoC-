@@ -1,0 +1,17 @@
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\HomeWork2019.12.23(CastleWindsor).Services.dll.config
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\HomeWork2019.12.23(CastleWindsor).Services.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\HomeWork2019.12.23(CastleWindsor).Services.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\EntityFramework.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\HomeWork2019.12.23(CastleWindsor).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\Newtonsoft.Json.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\HomeWork2019.12.23(CastleWindsor).AbstractModels.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\EntityFramework.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\Newtonsoft.Json.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\ru\EntityFramework.resources.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\obj\Debug\HomeWork2019.12.23(CastleWindsor).Services.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\obj\Debug\HomeWork2019.12.23(CastleWindsor).Services.csproj.CopyComplete
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\obj\Debug\HomeWork2019.12.23(CastleWindsor).Services.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Services\obj\Debug\HomeWork2019.12.23(CastleWindsor).Services.pdb

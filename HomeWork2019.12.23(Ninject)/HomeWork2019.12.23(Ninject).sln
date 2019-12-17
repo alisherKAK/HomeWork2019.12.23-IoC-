@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2019.12.23(Ninject).Web", "HomeWork2019.12.23(Ninject).Web\HomeWork2019.12.23(Ninject).Web.csproj", "{E0284297-59B2-45AE-98CB-4A9EE9BF8471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2019.12.23(Ninject).AbstractModels", "HomeWork2019.12.23(Ninject).AbstractModels\HomeWork2019.12.23(Ninject).AbstractModels.csproj", "{02A3D4F0-5FD8-4316-84B4-420E2FCAEE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2019.12.23(Ninject).Models", "HomeWork2019.12.23(Ninject).Models\HomeWork2019.12.23(Ninject).Models.csproj", "{15582061-F8DC-41A7-90ED-802706A24348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2019.12.23(Ninject).DataAccess", "HomeWork2019.12.23(Ninject).DataAccess\HomeWork2019.12.23(Ninject).DataAccess.csproj", "{F9FA2E3D-48C4-43FC-B92D-8159BFC3CF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2019.12.23(Ninject).Services", "HomeWork2019.12.23(Ninject).Services\HomeWork2019.12.23(Ninject).Services.csproj", "{FE794F68-B727-4E26-9032-C737FEF22CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0284297-59B2-45AE-98CB-4A9EE9BF8471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0284297-59B2-45AE-98CB-4A9EE9BF8471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0284297-59B2-45AE-98CB-4A9EE9BF8471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0284297-59B2-45AE-98CB-4A9EE9BF8471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A3D4F0-5FD8-4316-84B4-420E2FCAEE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A3D4F0-5FD8-4316-84B4-420E2FCAEE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A3D4F0-5FD8-4316-84B4-420E2FCAEE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A3D4F0-5FD8-4316-84B4-420E2FCAEE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15582061-F8DC-41A7-90ED-802706A24348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15582061-F8DC-41A7-90ED-802706A24348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15582061-F8DC-41A7-90ED-802706A24348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15582061-F8DC-41A7-90ED-802706A24348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FA2E3D-48C4-43FC-B92D-8159BFC3CF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FA2E3D-48C4-43FC-B92D-8159BFC3CF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FA2E3D-48C4-43FC-B92D-8159BFC3CF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FA2E3D-48C4-43FC-B92D-8159BFC3CF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE794F68-B727-4E26-9032-C737FEF22CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE794F68-B727-4E26-9032-C737FEF22CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE794F68-B727-4E26-9032-C737FEF22CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE794F68-B727-4E26-9032-C737FEF22CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D7BD0D-633E-4293-987F-C1FE55BAC4D6}
+	EndGlobalSection
+EndGlobal

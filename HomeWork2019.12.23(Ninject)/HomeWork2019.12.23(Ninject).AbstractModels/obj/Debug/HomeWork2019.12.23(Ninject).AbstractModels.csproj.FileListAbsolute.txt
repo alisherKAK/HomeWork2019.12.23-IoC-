@@ -1,0 +1,5 @@
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).AbstractModels\bin\Debug\HomeWork2019.12.23(Ninject).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).AbstractModels\bin\Debug\HomeWork2019.12.23(Ninject).AbstractModels.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).AbstractModels\obj\Debug\HomeWork2019.12.23(Ninject).AbstractModels.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).AbstractModels\obj\Debug\HomeWork2019.12.23(Ninject).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).AbstractModels\obj\Debug\HomeWork2019.12.23(Ninject).AbstractModels.pdb

@@ -1,0 +1,17 @@
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\HomeWork2019.12.23(Autofac).Services.dll.config
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\HomeWork2019.12.23(Autofac).Services.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\HomeWork2019.12.23(Autofac).Services.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\EntityFramework.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\EntityFramework.SqlServer.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\HomeWork2019.12.23(Autofac).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\Newtonsoft.Json.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\HomeWork2019.12.23(Autofac).AbstractModels.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\EntityFramework.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\EntityFramework.SqlServer.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\Newtonsoft.Json.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\ru\EntityFramework.resources.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\obj\Debug\HomeWork2019.12.23(Autofac).Services.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\obj\Debug\HomeWork2019.12.23(Autofac).Services.csproj.CopyComplete
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\obj\Debug\HomeWork2019.12.23(Autofac).Services.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Autofac)\HomeWork2019.12.23(Autofac).Services\obj\Debug\HomeWork2019.12.23(Autofac).Services.pdb

@@ -1,0 +1,10 @@
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\HomeWork2019.12.23(Ninject).Models.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\HomeWork2019.12.23(Ninject).Models.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\HomeWork2019.12.23(Ninject).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\Newtonsoft.Json.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\HomeWork2019.12.23(Ninject).AbstractModels.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\bin\Debug\Newtonsoft.Json.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\obj\Debug\HomeWork2019.12.23(Ninject).Models.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\obj\Debug\HomeWork2019.12.23(Ninject).Models.csproj.CopyComplete
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\obj\Debug\HomeWork2019.12.23(Ninject).Models.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(Ninject)\HomeWork2019.12.23(Ninject).Models\obj\Debug\HomeWork2019.12.23(Ninject).Models.pdb

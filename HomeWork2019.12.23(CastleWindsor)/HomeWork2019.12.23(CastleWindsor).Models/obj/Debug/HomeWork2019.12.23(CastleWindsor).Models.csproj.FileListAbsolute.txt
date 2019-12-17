@@ -1,0 +1,10 @@
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\HomeWork2019.12.23(CastleWindsor).Models.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\HomeWork2019.12.23(CastleWindsor).Models.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\HomeWork2019.12.23(CastleWindsor).AbstractModels.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\Newtonsoft.Json.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\HomeWork2019.12.23(CastleWindsor).AbstractModels.pdb
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\bin\Debug\Newtonsoft.Json.xml
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\obj\Debug\HomeWork2019.12.23(CastleWindsor).Models.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\obj\Debug\HomeWork2019.12.23(CastleWindsor).Models.csproj.CopyComplete
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\obj\Debug\HomeWork2019.12.23(CastleWindsor).Models.dll
+S:\VisualStudio\ASP\IoC\HomeWork2019.12.23(CastleWindsor)\HomeWork2019.12.23(CastleWindsor).Models\obj\Debug\HomeWork2019.12.23(CastleWindsor).Models.pdb
